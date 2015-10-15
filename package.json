@@ -1,6 +1,6 @@
 {
   "name": "add-transforms",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Browserify plugin to add transforms to dependencies",
   "license": "MIT",
   "author": {
